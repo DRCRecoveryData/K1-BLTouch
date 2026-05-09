@@ -2,6 +2,8 @@
 
 This repository contains the configuration notes, shell scripts, and documentation for converting a Creality K1 to a "Pure" Klipper environment. This setup replaces the proprietary Creality modules with official Klipper modules to ensure better compatibility and stability.
 
+https://www.wronex.com/articles/230828-bondtech-lgx-lite-on-creality-k1/
+
 ## 🚀 Overview
 
 The goal of this modification is to:
